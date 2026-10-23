@@ -32,7 +32,7 @@ Repository: https://github.com/danny-tharun077/Project/tree/main
 Designing a wireless power transfer prototype with RFID
 authentication and microcontroller-based charging control.
 
-Repository: 
+Repository: https://github.com/danny-tharun077/rfid-wireless-ev-charging.git
 
 ## 🎯 Career Interests
 - Electrical and Power Systems
