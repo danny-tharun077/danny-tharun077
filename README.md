@@ -6,14 +6,14 @@
 I'm interested in electrical systems, embedded programming,
 energy storage, and innovative power transfer technologies.
 
-## 🛠️ Technical Skills
+##  Technical Skills
 - **Programming:** C, Embedded C, Python, Basics of JAVA
 - **Engineering Tools:** S32Design Studio, Proteus
 - **Core EEE:** Power Electronics, Electrical Machines,Control Systems
 - **Technologies:** Battery Management, RFID,
   Wireless Power Transfer
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 ### 1. EV Battery Second-Life System
 Exploring the reuse of retired EV batteries for stationary
@@ -34,7 +34,7 @@ authentication and microcontroller-based charging control.
 
 Repository: https://github.com/danny-tharun077/rfid-wireless-ev-charging.git
 
-## 🎯 Career Interests
+##  Career Interests
 - Electrical and Power Systems
 - Embedded Systems and Firmware
 - Electric Vehicles and Energy Storage
@@ -42,4 +42,4 @@ Repository: https://github.com/danny-tharun077/rfid-wireless-ev-charging.git
 
 ## 🤝 Connect With Me
 - LinkedIn: www.linkedin.com/in/tharun-daniel-289190332
-- GitHub: https://github.com/danny-tharun077
+- Mail-ID: dannytharun077@gmail.com
